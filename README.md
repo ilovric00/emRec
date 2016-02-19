@@ -1,0 +1,1 @@
+Bachelor Thesis, Employee record system, HR application using C# Windows Forms and MS SQL Server 
